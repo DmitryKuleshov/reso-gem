@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "perchwell_reso/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "perchwell_reso"
+  spec.name          = "perchwell-reso"
   spec.version       = PerchwellReso::VERSION
   spec.authors       = ["Dzmitry Kuliashou"]
   spec.email         = ["bubom@yandex.ru"]
