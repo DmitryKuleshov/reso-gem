@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Dzmitry Kuliashou"]
   spec.email         = ["bubom@yandex.ru"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{RESO Gem for Perchwell.}
+  spec.description   = %q{RESO for Perchwell.}
   spec.homepage      = "http://perchwell.com"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
